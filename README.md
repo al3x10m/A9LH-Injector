@@ -16,10 +16,10 @@ Most of these things can be dumped from your console via either [OTPHelper](http
 Just put all files mentioned above, except the `NAND.bin` and `FIRM0FIRM1.xorpad`, into the `/ìnput` folder. Put `NAND.bin` and `FIRM0FIRM1.xorpad` into the work folder root. Run `A9LH Installer.bat`. Arm9loaderhax will be installed to your NAND dump, and the NAND dump will be renamed to `nand.a9lh.bin`.
 
 ## License
-You may use this under the terms of the GNE General Public License GPL v2 or under the terms of any later revisions of the GPL. Refer to teh provided `LICENSE.txt` file for further information.
+You may use this under the terms of the GNE General Public License GPL v2 or under the terms of any later revisions of the GPL. Refer to the provided `LICENSE.txt` file for further information.
 
 ## Credits
-* __Al3x_10m__ - who did all of the work putting this together
+* __Al3x_10m__ - who did all of the work putting this together and testing it
 * __delebile__ & __dark_samus__ - for arm9loaderhax development, including `sector_generator.py`, `payload_stage1.bin`and `payload_stage2.bin` 
 * __Plailect__ - for making arm9loaderhax publicly available
 * __d0k3__ - for the readme file and `3DSFAT16tool`
