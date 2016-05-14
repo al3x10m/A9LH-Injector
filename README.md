@@ -16,7 +16,7 @@ Most of these things can be dumped from your console via either [OTPHelper](http
 Just put all files mentioned above, except the `NAND.bin` and `FIRM0FIRM1.xorpad`, into the `/ìnput` folder. Put `NAND.bin` and `FIRM0FIRM1.xorpad` into the root folder containing `A9LHinjector.bat`. Run `A9LHinjector.bat`. Arm9loaderhax will be installed to your NAND dump, and the NAND dump will be renamed to `nand.a9lh.bin`.
 
 ## License
-You may use this under the terms of the GNE General Public License GPL v2 or under the terms of any later revisions of the GPL. Refer to the provided `LICENSE.txt` file for further information.
+You may use this under the terms of the GNU General Public License GPL v2 or under the terms of any later revisions of the GPL. Refer to the provided `LICENSE.txt` file for further information.
 
 ## Credits
 * __Al3x_10m__ - who did all of the work putting this together and testing it
