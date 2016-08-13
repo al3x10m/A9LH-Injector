@@ -7,7 +7,7 @@ rd /s /q output
 md output
 
 copy /y /v input\new3ds90.firm output\firm0.bin
-work\dd if=input/payload_stage1.bin of=output/firm0.bin bs=512 seek=1922 conv=notrunc
+work\dd if=input/payload_stage1.bin of=output/firm0.bin bs=1 seek=984464 conv=notrunc
 echo [FIRM0 done and stage1 injected]
 
 copy /y /v input\new3ds10.firm output\firm1.bin
