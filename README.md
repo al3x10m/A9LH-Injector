@@ -23,3 +23,4 @@ You may use this under the terms of the GNU General Public License GPL v2 or und
 * __delebile__ & __dark_samus__ - for arm9loaderhax development, including `sector_generator.py`, `payload_stage1.bin`and `payload_stage2.bin` 
 * __Plailect__ - for making arm9loaderhax publicly available
 * __d0k3__ - for the readme file and `3DSFAT16tool`
+* __gemarcano__ - for the new `sector_generator.py` from __delebile__ arm9loaderhax repository
